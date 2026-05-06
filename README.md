@@ -1,4 +1,4 @@
-# Geospatial Portfolio Template
+# Geospatial Portfolio For Stuart Johnson
 
 A ready-to-use portfolio website template for geospatial professionals — GIS analysts, remote
 sensing specialists, spatial data scientists, and GeoAI practitioners. Built with
@@ -8,7 +8,7 @@ Build a fully responsive personalized portfolio website - no Git or coding exper
 
 **[TEMPLATE PREVIEW](https://spatialthoughts.github.io/portfolio-website-template/)**
 
-**[LIVE PORTFOLIO](https://spatialthoughts.github.io/)**
+**[LIVE PORTFOLIO](https://StuartCJohnson.github.io/)**
 
 This template is part of our [Building Your Geospatial Portfolio Website](https://courses.spatialthoughts.com/geospatial-portfolio-workshop.html) workshop. Visit the workshop page for step-by-step instructions.
 
